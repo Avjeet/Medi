@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "834769843473",
+    "firebase_url": "https://userauth-4966b.firebaseio.com",
+    "project_id": "userauth-4966b",
+    "storage_bucket": "userauth-4966b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834769843473:android:08aeeaf6b2096467",
+        "android_client_info": {
+          "package_name": "com.example.android.medi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834769843473-prgjluginngrfs3ejihekpb9jtckvpu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_EyT1HwQnJATwg85X6916DkM5rpoE9XM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

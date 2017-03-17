@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Medi</string>
+    <string name="email">email</string>
+    <string name="already_registered">Already Registered ?</string>
+    <string name="sign_in_here">Sign in here</string>
+    <string name="icon_brand">icon_brand</string>
+    <string name="register">Register</string>
+</resources>
