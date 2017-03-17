@@ -7,8 +7,7 @@
     tools:context="com.example.android.medi.LoginPage"
     android:background="#00838F"
     android:id="@+id/login_layout"
-
-
+    android:fitsSystemWindows="true"
     tools:layout_editor_absoluteY="81dp"
     tools:layout_editor_absoluteX="0dp">
 
@@ -53,7 +52,7 @@
         android:paddingLeft="20dp"
         android:drawablePadding="4dp"
         android:ems="10"
-        android:layout_marginBottom="-1dp"
+        android:layout_marginBottom="-3dp"
         android:hint="@string/email"
         android:inputType="textPersonName"
         android:textColor="@color/text_blue"
