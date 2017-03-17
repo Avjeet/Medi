@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "834769843473",
-    "firebase_url": "https://userauth-4966b.firebaseio.com",
-    "project_id": "userauth-4966b",
-    "storage_bucket": "userauth-4966b.appspot.com"
+    "project_number": "984234839001",
+    "firebase_url": "https://medi-c139a.firebaseio.com",
+    "project_id": "medi-c139a",
+    "storage_bucket": "medi-c139a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:834769843473:android:08aeeaf6b2096467",
+        "mobilesdk_app_id": "1:984234839001:android:0643ebd314734019",
         "android_client_info": {
           "package_name": "com.example.android.medi"
         }
       },
       "oauth_client": [
         {
-          "client_id": "834769843473-prgjluginngrfs3ejihekpb9jtckvpu7.apps.googleusercontent.com",
+          "client_id": "984234839001-9l6h7pp9pluuhvfbfjdroa26cdd008v9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB_EyT1HwQnJATwg85X6916DkM5rpoE9XM"
+          "current_key": "AIzaSyB20CuMBjWv8qdnHXVYPY6Y2atYXjR3ukE"
         }
       ],
       "services": {
