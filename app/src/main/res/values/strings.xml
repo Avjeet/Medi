@@ -5,4 +5,8 @@
     <string name="sign_in_here">Sign in here</string>
     <string name="icon_brand">icon_brand</string>
     <string name="register">Register</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="not_registered_yet">Not Registered Yet ?</string>
+    <string name="sign_up_here">Sign Up Here</string>
 </resources>
